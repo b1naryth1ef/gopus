@@ -1,4 +1,4 @@
-// +build !amd66,!386,cgo
+// +build amd64,cgo 386,cgo
 
 package gopus // import "github.com/b1naryth1ef/gopus"
 
